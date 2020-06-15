@@ -12,9 +12,11 @@
                    //按下esc后 输入 :wq 退出	       
                    //输入 cat README.md 进行查看
 
-6. 使用git add 将修改后文件保存在本地仓库。
-7. 使用git commit -m命令设置注释
-8. 使用git push命令将本地项目更新提交到github。
+6. 使用git add 将修改后文件保存在本地仓库。   //git add之后要紧跟git commit -m
+
+7. 使用git commit -m命令设置注释    //git commit -m之后让我填写自己的邮箱和名字
+只要按他给的指令执行就可以了
+8. 使用git push命令将本地项目更新提交到github。    //git push之后才传到github 没git push之前看了好几次github 还在纳闷怎么没传上来- -
 
 画面的清晰度不是很高
 学习效果还可以 跟得上
