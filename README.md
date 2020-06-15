@@ -18,6 +18,8 @@
 只要按他给的指令执行就可以了
 8. 使用git push命令将本地项目更新提交到github。    //git push之后才传到github 没git push之前看了好几次github 还在纳闷怎么没传上来- -
 
+了解了一下arduino 知道了他的代码 setup只执行一次 loop一直执行
+
 画面的清晰度不是很高
 学习效果还可以 跟得上
 
